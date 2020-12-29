@@ -20,7 +20,7 @@
 - username: dungbt
 - pass: shishi
 
-#### Feature
+#### Features
 ###### 1 Quản Lý Admin
 ```
 Bảng Điều Khiển -> Admin
